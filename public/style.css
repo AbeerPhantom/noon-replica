@@ -1,0 +1,25 @@
+body{
+    font-family: "Poppins" !important;
+}
+
+.header {
+    background-color: #f3e008;
+}
+
+.h-245 {
+    height: 245px;
+}
+
+.category-section {
+    background-color: rgb(242, 250, 255);
+    min-width: 0px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+.fs-14 {
+    font-size: 14px;
+}
